@@ -22,7 +22,7 @@
 		<junit.version>4.11</junit.version>
 		<log4j.version>1.2.17</log4j.version>
 		<sonar.host.url>http://65.2.82.213:9000/</sonar.host.url>
-                <sonar.login>admin</sonar.login>
+                <sonar.login>SivaKondla</sonar.login>
 		<sonar.password>m3ghas!va</sonar.password>  
               
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -99,13 +99,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name> Releases Nexus Repository</name>
-	      <url>http://15.207.14.195:8081/repository/SivaM-Release/</url>
+	      <url>http://15.207.14.195:8081/repository/SivaKondla-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Snapshot Nexus Repository </name>
-	      <url>http://15.207.14.195:8081/repository/SivaM-snapshot/</url>
+	      <url>http://15.207.14.195:8081/repository/SivaKondla-SNAPSHOT/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
