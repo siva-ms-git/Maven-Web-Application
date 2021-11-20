@@ -4,7 +4,7 @@
 	
 	<groupId>com.mt</groupId>
 	<artifactId>maven-web-application</artifactId>
-	<version>2.0.2</version>
+	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
 	
 	<name>maven-web-application</name>
@@ -21,7 +21,7 @@
 		<spring.version>5.1.2.RELEASE</spring.version>
 		<junit.version>4.11</junit.version>
 		<log4j.version>1.2.17</log4j.version>
-		<sonar.host.url>http://3.110.114.75:9000/</sonar.host.url>
+		<sonar.host.url>http://15.207.16.156:9000/</sonar.host.url>
                 <sonar.login>SivaKondla</sonar.login>
 		<sonar.password>m3ghas!va</sonar.password>  
               
@@ -99,13 +99,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name> Releases Nexus Repository</name>
-	      <url>http://65.0.5.211:8081/repository/siva-ms-release/</url>
+	      <url>http://13.233.201.254:8081/repository/siva-ms-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Snapshot Nexus Repository </name>
-	      <url>http://65.0.5.211:8081/repository/siva-ms-snapshot/</url>
+	      <url>http://13.233.201.254:8081/repository/siva-ms-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
