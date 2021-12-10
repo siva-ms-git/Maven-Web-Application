@@ -105,7 +105,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Snapshot Nexus Repository </name>
-	      <url>http://13.235.79.129:8081/repository/siva-ms-snapshot/</url>
+	      <url>http://13.235.79.129:8081/repository/siva-ms-SNAPSHOT/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
