@@ -3,7 +3,12 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>Anniversary Wishes</title>
-<link href="images/sivam.jpg" rel="icon">
+<link href="images/logo.jpg" rel="icon">
+
+
+
+
+
 </head>
 </head>
 <body>
