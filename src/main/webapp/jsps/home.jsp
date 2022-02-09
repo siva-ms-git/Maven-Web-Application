@@ -19,6 +19,11 @@
     <div class="confetti-piece"></div>
     <div class="confetti-piece"></div>
 </div>
+	
+<div>
+<canvas id="canvas"></canvas>
+  </div>
+	
 </head>
 </head>
 <body>
