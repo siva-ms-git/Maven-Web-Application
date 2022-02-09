@@ -4,42 +4,25 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>Anniversary Wishes</title>
 <link href="images/logo.jpg" rel="icon">
-<div class="confetti">
-    <div class="confetti-piece"></div>
-    <div class="confetti-piece"></div>
-    <div class="confetti-piece"></div>
-    <div class="confetti-piece"></div>
-    <div class="confetti-piece"></div>
-    <div class="confetti-piece"></div>
-    <div class="confetti-piece"></div>
-    <div class="confetti-piece"></div>
-    <div class="confetti-piece"></div>
-    <div class="confetti-piece"></div>
-    <div class="confetti-piece"></div>
-    <div class="confetti-piece"></div>
-    <div class="confetti-piece"></div>
-</div>
-	
-<div>
-<canvas id="canvas"></canvas>
-  </div>
-	
+
 </head>
 </head>
 <body>
 <h1 align="center">Happy 8th Love Anniversary Maa....</h1>
-<h1 align="center">I’m so excited about the future because I can’t wait to make all of our dreams come true.</h1>
+<h1 align="center">I am so excited about the future because I am waiting to make all of our dreams come true.</h1>
 <h1 align="center">Only person in the world that I want beside me every day and every night for the rest my life. I love you, sweetheart. </h1>
 
 <hr>
 <div style="text-align: center;">
 	<span>
-		<img src="images/sivam.jpg" alt="" width="100">
+		<img src="images/sivam.jpg" alt=""  width="300" height="300">
 	</span>
+</div>
+<hr>
+<div style="text-align: center;">
 	<span style="font-weight: bold;">
 		Siva Kumar, 
-		+91 7893730739 ,
-		sivareddy9166@gmail.com
+		will be waiting for your call
 		<br>
 		<a href="mailto:sivareddy9166@gmail.com">Mail to Siva Kumar</a>
 	</span>
